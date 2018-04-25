@@ -2,6 +2,7 @@ import React from 'react';
 import TopNav from './top-nav';
 
 import './header.css';
+import GuessSection from './guess-section';
 
 export default function Header(props) {
     return (
