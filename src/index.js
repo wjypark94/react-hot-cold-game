@@ -6,5 +6,5 @@ import './index.css';
 import Game from './components/game';
 
 ReactDom.render(
-    <Game />, document.getElementById('root')
+    <Game/>, document.getElementById('root')
 );
